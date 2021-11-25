@@ -4,4 +4,4 @@
 udemy course
 ## [review](https://dhyno.github.io/simple-static-movie-web/)
 <img src="asset/image/result1.png">
-
+<img src="asset/image/result2.png">
